@@ -31,12 +31,14 @@ body {
 }
 #q-decrease {
     border: none;
+    outline: none;
     background-color: transparent;
     color: white;
     font-size: 35px;
 }
 #q-increase {
     border: none;
+    outline: none;
     background-color: transparent;
     color: white;
     font-size: 35px;
