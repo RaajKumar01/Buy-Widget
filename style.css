@@ -44,6 +44,7 @@ body {
 
 .pay-button {
     background-color: turquoise;
+    outline: none;
     width: 120px;
     height: 60px;
     margin-left: 20px;
